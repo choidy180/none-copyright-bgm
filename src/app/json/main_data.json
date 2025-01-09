@@ -1,8 +1,9 @@
 {
+    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R"],
     "data" : [
         {
             "title": "종말의 시 (Poem of The End)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크｜OST] 종말의 시  (Poem of The End) - LOST ARK Official Soundtrack.mp3",
@@ -12,7 +13,7 @@
         },
         {
             "title": "테일 오브 플레체(Vocal) (Tale of Pletze)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크ㅣOST] 02_테일 오브 플레체(Vocal) (Tale of Pletze) - LOST ARK Soundtrack (Vol.2 In-Game Track).mp3",
@@ -22,7 +23,7 @@
         },
         {
             "title": "라우리엘 2페이즈 (Lauriel Phase 2)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크｜OST] 라우리엘 2페이즈 (Lauriel Phase 2) - LOST ARK Official Soundtrack.mp3",
@@ -32,7 +33,7 @@
         },
         {
             "title": "쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton) - LOST ARK Official Soundtrack.mp3",
@@ -42,7 +43,7 @@
         },
         {
             "title": "쿠크세이튼 테마 - 화려한 서커스(Splendid Circus)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 화려한 서커스(Splendid Circus) - LOST ARK Official Soundtrack.mp3",
@@ -52,7 +53,7 @@
         },
         {
             "title": "쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus) - LOST ARK Official Soundtrack.mp3",
@@ -62,7 +63,7 @@
         },
         {
             "title": "레온하트(Leonhart)",
-            "game_en": "LOSTARK",
+            "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
             "file_name": "[로스트아크ㅣOST] 02_레온하트(Leonhart) - LOST ARK Soundtrack (Vol.1 Orchestra Track).mp3",
@@ -71,74 +72,64 @@
             "comment": "개인적으로 로스트아크 BGM중에 제일 잘만들었다고 생각하는 음악, 모험이 시작되는 두근거림과 설레임을 너무 잘표현한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "흩어진 시간 (Shattered Time)",
+            "game_en": "MapleStory",
+            "game_ko": "메이플스토리",
+            "folder": "maplestory",
+            "file_name": "흩어진 시간 (Shattered Time) [메이플스토리 OST - 아케인 리버].mp3",
+            "thumbnail": "https://i.ytimg.com/vi/tbLEFclErGI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTu84CBBKORfLLBQa-4aiywDkusg",
+            "tag": "오케스트라,축제,잔혹한,두근대는,무서운,애절함",
+            "comment": "시계탑이 있는 마을의 몽환의 축제에서 흘러나오는 분위기를 표현한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "리스항구(Lith Harbor)",
+            "game_en": "MapleStory",
+            "game_ko": "메이플스토리",
+            "folder": "maplestory",
+            "file_name": "[MapleStory BGM] Lith Harbor- Above the Treetops.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/F6LIFBVhObQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgVChCMA8=&rs=AOn4CLDZhMQY0f0EHyYvGT2MuOrh8LD-1w",
+            "tag": "모험,시작되는,두근대는,시원함,바람부는,가벼움",
+            "comment": "모험이 시작되는 두근거림과 설레임을 바다항구의 시원한 바람을 느끼는 것처럼 표현한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "엘리니아(Ellinia) - When the Morning Comes",
+            "game_en": "MapleStory",
+            "game_ko": "메이플스토리",
+            "folder": "maplestory",
+            "file_name": "[MapleStory BGM] Ellinia- When the Morning Comes.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/gfgBDs8z6WE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCggcigYMA8=&rs=AOn4CLAG-H0V-FuSd6COH37PS7imAmL2CA",
+            "tag": "모험,숲,시작되는,두근대는,웅장함,속삭임,맑음,신비로움",
+            "comment": "울창한 숲속에 숨겨진 마을을 표현한 음악, 신비로운 느낌과 두근대는 느낌을 주는 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "수련의 숲 (Raindrop Flower)",
+            "game_en": "MapleStory",
+            "game_ko": "메이플스토리",
+            "folder": "maplestory",
+            "file_name": "MapleStory BGM - Raindrop Flower (수련의 숲).mp3",
+            "thumbnail": "https://i.ytimg.com/vi/3QqPl-pBW14/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCMgWChyMA8=&rs=AOn4CLBmrxwL3srqsGVvmSJ61OOSe1PVog",
+            "tag": "모험,숲,시작되는,가벼운,귀여움",
+            "comment": "모험이 시작되는 초보자 마을의 가볍고 설레임을 표현한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "Gattaida Boss",
+            "game_en": "Super Bomberman R",
+            "game_ko": "슈퍼봄버맨R",
+            "folder": "superBombermanR",
+            "file_name": "Super Bomberman R Soundtrack Great Gattaida  Boss.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/ZAxlMQNcpTM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCIgTCh_MA8=&rs=AOn4CLCXFXvmhePTwkuY9-nMp_Vl9hQr3g",
+            "tag": "긴박한,웃김,우당탕탕,재빠른,신남,난리",
+            "comment": "웃긴 매드무비같은 곳에 많이 쓰이는 음악, 굉장히 빠르며 난해하지만 중독성 강한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
-        },
-        {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "The Five Dastardly Bombers",
+            "game_en": "Super Bomberman R",
+            "game_ko": "슈퍼봄버맨R",
+            "folder": "superBombermanR",
+            "file_name": "Super Bomberman R Soundtrack The Five Dastardly Bombers.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/ZAxlMQNcpTM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCIgTCh_MA8=&rs=AOn4CLCXFXvmhePTwkuY9-nMp_Vl9hQr3g",
+            "tag": "활기찬,보스,웃김,우당탕탕,재빠른,신남,난리",
+            "comment": "웃긴 보스전이나, 여러 상황에서 무난하게 많이 쓰이는 음악, 빠르고 포인트가 확실한 중독성 강한 음악"
         },
         {
             "title": "",

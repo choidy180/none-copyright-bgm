@@ -38,8 +38,13 @@ const ContentBox = (prop:prop) => {
             audioPause();
         }
     },[playing]);
+    useEffect(() => {
+        if (audioRef.current) {
+          audioRef.current.volume = 0.1; // 볼륨을 50%로 설정
+        }
+      }, []);
     return (
-        <div className="mb-[14px] w-[324px] flex flex-col justify-start items-start p-[8px] border-[2px] border-solid border-[#7bed9f] transition-all bg-white rounded-[8px] hover:bg-gray-100">
+        <div className="w-[324px] flex flex-col justify-start items-start p-[8px] border-[2px] border-solid border-[#7bed9f] transition-all bg-white rounded-[8px] hover:bg-gray-100">
             <audio className="hidden" ref={audioRef} controls>
                 <source src={`audio/${prop.content['folder']}/${prop.content['file_name']}`} type="audio/mp3"/>
             </audio>
@@ -95,7 +100,6 @@ const ContentBox = (prop:prop) => {
                     w-full p-[4px] text-[18px] border-[2px] border-solid border-green-400 
                     rounded-[8px] mt-[20px] bg-white hover:bg-green-300 font-semibold
                 "
-                onClick={()=> console.log(audioRef)}
             >
                 다운로드
             </button>

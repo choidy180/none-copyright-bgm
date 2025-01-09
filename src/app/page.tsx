@@ -40,22 +40,20 @@ export default function Home() {
                 </div>
             </div>
 
-            <div className="w-[calc(100%-20px)] max-w-[1000px] mb-[80px]">
-                <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">로스트아크</h4>
-                <div className="w-full flex flex-wrap justify-between items-center">
-                    {
-                        LoadData.data.filter((item:prop)=> item.title !== "").map((content, index) => (
-                            <ContentBox key={index} content={content}/>
-                        ))
-                    }
-                </div>
-            </div>
-            <div className="w-[calc(100%-20px)] max-w-[1000px] mb-[80px]">
-                <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">메이플스토리</h4>
-                <div className="w-full flex flex-wrap justify-between items-center">
-
-                </div>
-            </div>
+            {
+                LoadData.list[0].split(',').map((gameTitle:string, index:number)=>(
+                    <div key={index} className="w-[calc(100%-20px)] max-w-[1000px] mb-[80px]">
+                        <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">{gameTitle}</h4>
+                        <div className="w-full flex flex-wrap justify-start items-center gap-[14px]">
+                            {
+                                LoadData.data.filter((item:prop)=> item.title !== "" && gameTitle === item.game_ko).map((content, index) => (
+                                    <ContentBox key={index} content={content}/>
+                                ))
+                            }
+                        </div>
+                    </div>
+                ))
+            }
         </div>
     );
 }
