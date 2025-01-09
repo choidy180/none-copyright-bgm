@@ -4,6 +4,17 @@ import { useState } from "react";
 import ContentBox from "./components/contenBox";
 import LoadData from "../app/json/main_data.json";
 
+interface prop {
+    comment: string;
+    file_name: string;
+    folder: string;
+    game_en: string;
+    game_ko: string;
+    tag: string;
+    thumbnail: string;
+    title: string;
+}
+
 export default function Home() {
     const [theme, setTheme] = useState<boolean>(true);
     return (
@@ -33,7 +44,7 @@ export default function Home() {
                 <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">로스트아크</h4>
                 <div className="w-full flex flex-wrap justify-between items-center">
                     {
-                        LoadData.data.filter((item:any)=> item.title !== "").map((content, index) => (
+                        LoadData.data.filter((item:prop)=> item.title !== "").map((content, index) => (
                             <ContentBox key={index} content={content}/>
                         ))
                     }
@@ -42,11 +53,7 @@ export default function Home() {
             <div className="w-[calc(100%-20px)] max-w-[1000px] mb-[80px]">
                 <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">메이플스토리</h4>
                 <div className="w-full flex flex-wrap justify-between items-center">
-                    {/* {
-                        LoadData.data.filter((item:any)=> item.title !== "").map((content, index) => (
-                            <ContentBox key={index} content={content}/>
-                        ))
-                    } */}
+
                 </div>
             </div>
         </div>
