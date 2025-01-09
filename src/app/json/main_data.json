@@ -1,0 +1,534 @@
+{
+    "data" : [
+        {
+            "title": "종말의 시 (Poem of The End)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 종말의 시  (Poem of The End) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/1axpeCiCw6U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHreEIUFMk7pcxe70viYCGAuGHoQ",
+            "tag": "오케스트라,웅장함,절망적,차분함,극적인",
+            "comment": "처음엔 차분하게 시작해서 중후반으로 갈수록 극적으로 웅장하게 변하는 노래"
+        },
+        {
+            "title": "테일 오브 플레체(Vocal) (Tale of Pletze)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크ㅣOST] 02_테일 오브 플레체(Vocal) (Tale of Pletze) - LOST ARK Soundtrack (Vol.2 In-Game Track).mp3",
+            "thumbnail": "https://i.ytimg.com/vi/664DO1kkD1o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCA7JWpNr7sO07NCcePvHHey7xLoQ",
+            "tag": "슬픔,보컬,아련함,차분함,흐느낌,간절함",
+            "comment": "속삭이는 것 같기도, 구슬프게 우는 것 같기도 한 아련한 노래 (보컬있음)"
+        },
+        {
+            "title": "라우리엘 2페이즈 (Lauriel Phase 2)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 라우리엘 2페이즈 (Lauriel Phase 2) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/lk_pd1tdz38/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5M9rT14yeD5yRovJ9kRkuW9zaOA",
+            "tag": "오케스트라,보스,웅장함,극적인,신성함,신비로움",
+            "comment": "신성한 최종보스를 마주한 듯한 아주 웅장한 노래"
+        },
+        {
+            "title": "쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/vcGey-NEcDQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBa8G0EvAQQeomXpvZDQ69413zR_Q",
+            "tag": "재즈,가벼움,잔잔,시작됨,모험",
+            "comment": "잔잔한 하고 빠른 비트의 가벼운 재즈곡, 무언가 시작될 것 같은 음악"
+        },
+        {
+            "title": "쿠크세이튼 테마 - 화려한 서커스(Splendid Circus)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 화려한 서커스(Splendid Circus) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/PCt3w7uTdHQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1bwXZlkWlXzJIui9idMFgnw2ymA",
+            "tag": "재즈,빠름,긴박,가벼움,시작됨,신남",
+            "comment": "굉장히 빠르고 급하게 진행되는 느낌을 주는 재즈곡, 허둥지둥 대는 상황과 잘 어울릴지도..?"
+        },
+        {
+            "title": "쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/VkyszLBTAVE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAY5ZsBMOT6_KVBal6My6-YaVb0nA",
+            "tag": "재즈,위험,공포,미침,은밀함",
+            "comment": "굉장히 위험한 밤에 은밀하게 일어나는 광기의 서커스를 표현한 음악"
+        },
+        {
+            "title": "레온하트(Leonhart)",
+            "game_en": "LOSTARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크ㅣOST] 02_레온하트(Leonhart) - LOST ARK Soundtrack (Vol.1 Orchestra Track).mp3",
+            "thumbnail": "https://i.ytimg.com/vi/vRc0U91xE9M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1L6TP2qkI2VdUshgzI6nbqgduuw",
+            "tag": "오케스트라,두근대는,웅장함,모험,시작되는",
+            "comment": "개인적으로 로스트아크 BGM중에 제일 잘만들었다고 생각하는 음악, 모험이 시작되는 두근거림과 설레임을 너무 잘표현한 음악"
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        },
+        {
+            "title": "",
+            "game_en": "",
+            "game_ko": "",
+            "folder": "",
+            "file_name": "",
+            "thumbnail": "",
+            "tag": "",
+            "comment": ""
+        }
+    ]
+}
