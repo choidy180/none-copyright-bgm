@@ -1,5 +1,5 @@
 {
-    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R"],
+    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일"],
     "data" : [
         {
             "title": "종말의 시 (Poem of The End)",
@@ -132,12 +132,12 @@
             "comment": "웃긴 보스전이나, 여러 상황에서 무난하게 많이 쓰이는 음악, 빠르고 포인트가 확실한 중독성 강한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
+            "title": "Ghost Fight",
+            "game_en": "UNDERTALE",
+            "game_ko": "언더테일",
+            "folder": "undertail",
+            "file_name": "Undertale OST- 010 - Ghost Fight.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "",
             "comment": ""
         },
