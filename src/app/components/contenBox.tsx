@@ -43,6 +43,16 @@ const ContentBox = (prop:prop) => {
           audioRef.current.volume = 0.1; // 볼륨을 50%로 설정
         }
       }, []);
+
+    const downloadAudio = () => {
+        const fileUrl = `audio/${prop.content['folder']}/${prop.content['file_name']}`;
+        const link = document.createElement('a');
+        link.href = fileUrl;
+        link.setAttribute("download", `${prop.content['file_name']}`); // 다운로드 파일 이름
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link); // 링크 제거
+    }
     return (
         <div className="w-[324px] flex flex-col justify-start items-start p-[8px] border-[2px] border-solid border-[#7bed9f] transition-all bg-white rounded-[8px] hover:bg-gray-100">
             <audio className="hidden" ref={audioRef} controls>
@@ -100,6 +110,7 @@ const ContentBox = (prop:prop) => {
                     w-full p-[4px] text-[18px] border-[2px] border-solid border-green-400 
                     rounded-[8px] mt-[20px] bg-white hover:bg-green-300 font-semibold
                 "
+                onClick={downloadAudio}
             >
                 다운로드
             </button>
