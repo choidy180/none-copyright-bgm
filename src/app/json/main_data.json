@@ -1,5 +1,5 @@
 {
-    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스,슈퍼 마리오 선샤인"],
+    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스,슈퍼 마리오 선샤인,일반음악,스플래툰2"],
     "data" : [
         {
             "title": "종말의 시 (Poem of The End)",
@@ -118,7 +118,7 @@
             "folder": "superBombermanR",
             "file_name": "Super Bomberman R Soundtrack Great Gattaida  Boss.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ZAxlMQNcpTM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCIgTCh_MA8=&rs=AOn4CLCXFXvmhePTwkuY9-nMp_Vl9hQr3g",
-            "tag": "긴박한,매드무비,웃김,우당탕탕,재빠른,신남,난리",
+            "tag": "긴박,매드무비,웃김,우당탕탕,재빠른,신남,난리",
             "comment": "웃긴 매드무비같은 곳에 많이 쓰이는 음악, 굉장히 빠르며 난해하지만 중독성 강한 음악"
         },
         {
@@ -228,7 +228,7 @@
             "folder": "kirby",
             "file_name": "Gourmet Race - Kirby- Super Star.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Se1uh3PS78Y/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gVygTMA8=&rs=AOn4CLBcOamOgQvrCo5p4eCORufh0da1bw",
-            "tag": "신남,유명함,레이스,우당탕탕,박진감넘치는,재빠른",
+            "tag": "신남,유명함,레이스,우당탕탕,박진감넘치는,재빠름",
             "comment": "여러 영상에 사용되는 너무나도 유명한 곡, 웃기기도하며"
         },
         {
@@ -242,44 +242,44 @@
             "comment": "여러 영상에 사용되는 유명한 음악,다양한 상황에 적용할 수 있는 신나고 차분하지만 밝은 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "tähtimöhkö",
+            "game_en": "Turbo",
+            "game_ko": "일반음악",
+            "folder": "music",
+            "file_name": "tähtimöhkö.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/P_Vr_DHaI74/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGFAgTShlMA8=&rs=AOn4CLBfzhWBegiryu-aSv7WMavC02Qhfw",
+            "tag": "매드무비,유명함,긴박,박진감넘치는,두근거림",
+            "comment": "박진감 넘치는 매드무비에 잘 어울리는 음악, 적당히 빠른 비트와 중독성강한 비트가 인상적인 음악, 1분20초경부터 유명한 부분 나옴 "
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "The Takeover",
+            "game_en": "Under Siege",
+            "game_ko": "일반음악",
+            "folder": "music",
+            "file_name": "Soundtrack3(The Takeover).mp3",
+            "thumbnail": "https://i.ytimg.com/vi/YWuFSkTKYIc/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-AoAC8AGKAgwIABABGGUgTyhIMA8=&rs=AOn4CLAE37QoFesD9TQthfqSvTJ0adGFVQ",
+            "tag": "진지함,신중함,유명함,두근거림",
+            "comment": "한국에서 유독 유명한 음악, 신중하거나 진지한 상황이나, 추리 상황같은 장면에 사용하면 좋은 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "Seafoam Shanty(ver.8-BIT)",
+            "game_en": "Splatoon 2",
+            "game_ko": "스플래툰2",
+            "folder": "splatoon2",
+            "file_name": "Seafoam Shanty 8-BIT - Splatoon 2.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/B0NZfggyys0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqBFjX5p5ED4dk13XArBMMTLHNqw",
+            "tag": "신남,유명함,웃김,재빠름,긴박함",
+            "comment": "스플래툰2의 Seafoam Shanty를 8-BIT로 리메이크 한곡, 굉장히 빠른 템포와 신나고 중독성넘치는 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "Journey to Silius",
+            "game_en": "raf world",
+            "game_ko": "일반음악",
+            "folder": "music",
+            "file_name": "raf world(Journey to Silius) title music.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/bBWcm499IXI/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-A4ACwAOKAgwIABABGE4gZShaMA8=&rs=AOn4CLAZArAMxZDEzXtbOK70rPs3igqKZA",
+            "tag": "매드무비,긴박,빠름,신나는",
+            "comment": "빠르고 신나는 중독성있는 음악"
         },
         {
             "title": "",
