@@ -1,5 +1,5 @@
 {
-    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스"],
+    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스,슈퍼 마리오 선샤인"],
     "data" : [
         {
             "title": "종말의 시 (Poem of The End)",
@@ -228,18 +228,18 @@
             "folder": "kirby",
             "file_name": "Gourmet Race - Kirby- Super Star.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Se1uh3PS78Y/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gVygTMA8=&rs=AOn4CLBcOamOgQvrCo5p4eCORufh0da1bw",
-            "tag": "신나는,유명함,레이스,우당탕탕,박진감넘치는,재빠른",
-            "comment": ""
+            "tag": "신남,유명함,레이스,우당탕탕,박진감넘치는,재빠른",
+            "comment": "여러 영상에 사용되는 너무나도 유명한 곡, 웃기기도하며"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
+            "title": "Delfino Plaza",
+            "game_en": "Super Mario Sunshine",
+            "game_ko": "슈퍼 마리오 선샤인",
+            "folder": "superMario",
+            "file_name": "Super Mario Sunshine - Delfino Plaza Original Soundtrack OST (HD).mp3",
+            "thumbnail": "https://i.ytimg.com/vi/KYdRWC6MCgM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAP9NcHE5bbE2z4U4Ithfy9VGODfw",
+            "tag": "신남,유명함,뻔뻔함,차분함,밝음,웃김",
+            "comment": "여러 영상에 사용되는 유명한 음악,다양한 상황에 적용할 수 있는 신나고 차분하지만 밝은 음악"
         },
         {
             "title": "",
