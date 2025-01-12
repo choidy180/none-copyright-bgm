@@ -60,7 +60,7 @@ const ContentBox = (prop:prop) => {
                 <source src={`audio/${prop.content['folder']}/${prop.content['file_name']}`} type="audio/mp3"/>
             </audio>
             <div className={`w-full flex flex-col justify-start items-start ${prop.ui === false && '!flex-row'}`}>
-                <div className={`w-full h-[170px] bg-[#e9e9e9] rounded-[6px] overflow-hidden group ${prop.ui === false && '!w-[300px] h-[158px]'}`}>
+                <div className={`w-full h-[170px] bg-[#e9e9e9] rounded-[6px] overflow-hidden group ${prop.ui === false && '!w-[280px] !h-[158px]'}`}>
                     <Image
                         src={`${prop.content.thumbnail}`}
                         width={320}
@@ -69,7 +69,7 @@ const ContentBox = (prop:prop) => {
                         className="object-cover"
                     />
                 </div>
-                <div className={`w-full flex flex-col justify-start items-start ${prop.ui === false && 'w-[calc(100%-250px)] ml-[14px]'}`}>
+                <div className={`w-full flex flex-col justify-start items-start ${prop.ui === false && '!w-[calc(100%-300px)] ml-[14px]'}`}>
                     <div className={`w-full flex justify-start items-center ${prop.ui === false && 'w-[calc(100%-200px)]'}`}>
                         {
                             playing === false &&
@@ -114,7 +114,7 @@ const ContentBox = (prop:prop) => {
                 className={`
                     w-full p-[4px] text-[18px] border-[2px] border-solid border-green-400 
                     rounded-[8px] mt-[20px] bg-white hover:bg-green-300 font-semibold
-                    ${prop.ui === false && 'absolute right-[8px] top-[-12px] w-[100px]'}
+                    ${prop.ui === false && 'absolute right-[8px] top-[-12px] !w-[100px]'}
                 `}
                 onClick={downloadAudio}
             >

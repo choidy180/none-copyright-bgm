@@ -7,6 +7,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <title>FREE COPYRIGHT</title>
       <body
         className={`w-full`}
       >

@@ -57,7 +57,7 @@ export default function Home() {
             </div>
             <div 
                 className={`
-                    w-[calc(100%-20px)] max-w-[1000px] flex justify-center items-center 
+                    w-[calc(100%-20px)] translate-x-[calc(500px-50%)] max-w-[300px] flex justify-center items-center 
                     mt-[10px] text-[24px] p-[8px] rounded-[8px]
                     border-[3px] border-solid border-[#7bed9f]
                 `}
