@@ -29,7 +29,7 @@ const ContentBox = (prop:prop) => {
     const audioPause = () => {
         if(audioRef.current){
             audioRef.current.pause();
-            audioRef.current.currentTime = 0;
+            // audioRef.current.currentTime = 0;
         }
     }
     useEffect(()=> {
