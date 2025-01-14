@@ -2,7 +2,7 @@
     "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스,슈퍼 마리오 선샤인,일반음악,스플래툰2,겟앰프드,포켓몬스터 블랙·화이트,대난투 스매시브라더스 시리즈,샨테와 해적의 저주"],
     "data" : [
         {
-            "title": "종말의 시 (Poem of The End)",
+            "title": "종말의 시",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -13,7 +13,7 @@
             "comment": "처음엔 차분하게 시작해서 중후반으로 갈수록 극적으로 웅장하게 변하는 노래"
         },
         {
-            "title": "테일 오브 플레체(Vocal) (Tale of Pletze)",
+            "title": "테일 오브 플레체(Vocal)",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -24,7 +24,7 @@
             "comment": "속삭이는 것 같기도, 구슬프게 우는 것 같기도 한 아련한 노래 (보컬있음)"
         },
         {
-            "title": "라우리엘 2페이즈 (Lauriel Phase 2)",
+            "title": "라우리엘 2페이즈",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -35,7 +35,7 @@
             "comment": "신성한 최종보스를 마주한 듯한 아주 웅장한 노래"
         },
         {
-            "title": "쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton)",
+            "title": "쿠크세이튼 테마 - 세이튼의 책",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -46,7 +46,7 @@
             "comment": "잔잔한 하고 빠른 비트의 가벼운 재즈곡, 무언가 시작될 것 같은 음악"
         },
         {
-            "title": "쿠크세이튼 테마 - 화려한 서커스(Splendid Circus)",
+            "title": "쿠크세이튼 테마 - 화려한 서커스",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -57,7 +57,7 @@
             "comment": "굉장히 빠르고 급하게 진행되는 느낌을 주는 재즈곡, 허둥지둥 대는 상황과 잘 어울릴지도..?"
         },
         {
-            "title": "쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus)",
+            "title": "쿠크세이튼 테마 - 한밤중의 서커스",
             "game_en": "LOST ARK",
             "game_ko": "로스트아크",
             "folder": "lostark",
@@ -79,7 +79,7 @@
             "comment": "개인적으로 로스트아크 BGM중에 제일 잘만들었다고 생각하는 음악, 모험이 시작되는 두근거림과 설레임을 너무 잘표현한 음악"
         },
         {
-            "title": "흩어진 시간 (Shattered Time)",
+            "title": "흩어진 시간",
             "game_en": "MapleStory",
             "game_ko": "메이플스토리",
             "folder": "maplestory",
@@ -90,7 +90,7 @@
             "comment": "시계탑이 있는 마을의 몽환의 축제에서 흘러나오는 분위기를 표현한 음악"
         },
         {
-            "title": "리스항구(Lith Harbor)",
+            "title": "리스항구",
             "game_en": "MapleStory",
             "game_ko": "메이플스토리",
             "folder": "maplestory",
@@ -101,7 +101,7 @@
             "comment": "모험이 시작되는 두근거림과 설레임을 바다항구의 시원한 바람을 느끼는 것처럼 표현한 음악"
         },
         {
-            "title": "엘리니아(Ellinia) - When the Morning Comes",
+            "title": "엘리니아 - When the Morning Comes",
             "game_en": "MapleStory",
             "game_ko": "메이플스토리",
             "folder": "maplestory",
@@ -112,7 +112,7 @@
             "comment": "울창한 숲속에 숨겨진 마을을 표현한 음악, 신비로운 느낌과 두근대는 느낌을 주는 음악"
         },
         {
-            "title": "수련의 숲 (Raindrop Flower)",
+            "title": "수련의 숲",
             "game_en": "MapleStory",
             "game_ko": "메이플스토리",
             "folder": "maplestory",
@@ -619,15 +619,37 @@
             "comment": "리그오브레전드의 5꽉 BGM과 '승리의 선글라스 리액션'으로 유명한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "main_tag": "",
-            "comment": ""
+            "title": "빛을 꺼트리는 자, 카멘",
+            "game_en": "LOST ARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 빛을 꺼트리는 자, 카멘 (Destroyer of Light, Kamen) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/2RQRumw3urA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAs8oLWgS74pdnXcXyaTEqRGnyvUQ",
+            "tag": "웅장함,오케스트라,보스,공포,절망,압도적",
+            "main_tag": "웅장함",
+            "comment": "로스트아크 군단장 보스 카멘의 3관 BGM, 압도적인 힘과 공포로 인한 절망감을 잘 표현한 음악"
+        },
+        {
+            "title": "두려움이 사라지는 마법",
+            "game_en": "LOST ARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] 두려움이 사라지는 마법 (The Spell to Disappear The Fear) - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/Clbknv6aB1k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQY9nDSikGIEflf2sh5NZO7UPJcQ",
+            "tag": "잔잔,따듯함,사랑,행복,슬픔,그리움",
+            "main_tag": "그리움",
+            "comment": "로스트아크 플레체 스토리의 클라우디아 NPC 음악, 따뜻하고 행복하나 그리움과 슬픔이 묻어나는 음악"
+        },
+        {
+            "title": "Journey's End",
+            "game_en": "LOST ARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크｜OST] Journey's End - LOST ARK Official Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/ebJ17GZ8KdQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHRlvvxUEJc5F-aUqNjuSUqNX2Nw",
+            "tag": "웅장함,오케스트라,희망,시작되는,극적,모험",
+            "main_tag": "웅장함",
+            "comment": "로스트아크 엘가시아 대륙의 마무리 음악, 금강선 디렉터의 마지막 유산으로 유명한 음악"
         }
     ]
 }
