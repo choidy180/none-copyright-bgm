@@ -9,6 +9,7 @@
             "file_name": "[로스트아크｜OST] 종말의 시  (Poem of The End) - LOST ARK Official Soundtrack.mp3",
             "thumbnail": "https://i.ytimg.com/vi/1axpeCiCw6U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHreEIUFMk7pcxe70viYCGAuGHoQ",
             "tag": "오케스트라,웅장함,절망적,차분함,극적인",
+            "main_tag":"웅장함",
             "comment": "처음엔 차분하게 시작해서 중후반으로 갈수록 극적으로 웅장하게 변하는 노래"
         },
         {
@@ -19,6 +20,7 @@
             "file_name": "[로스트아크ㅣOST] 02_테일 오브 플레체(Vocal) (Tale of Pletze) - LOST ARK Soundtrack (Vol.2 In-Game Track).mp3",
             "thumbnail": "https://i.ytimg.com/vi/664DO1kkD1o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCA7JWpNr7sO07NCcePvHHey7xLoQ",
             "tag": "슬픔,보컬,아련함,차분함,흐느낌,간절함",
+            "main_tag":"슬픔",
             "comment": "속삭이는 것 같기도, 구슬프게 우는 것 같기도 한 아련한 노래 (보컬있음)"
         },
         {
@@ -29,6 +31,7 @@
             "file_name": "[로스트아크｜OST] 라우리엘 2페이즈 (Lauriel Phase 2) - LOST ARK Official Soundtrack.mp3",
             "thumbnail": "https://i.ytimg.com/vi/lk_pd1tdz38/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5M9rT14yeD5yRovJ9kRkuW9zaOA",
             "tag": "오케스트라,보스,웅장함,극적인,신성함,신비로움",
+            "main_tag":"웅장함",
             "comment": "신성한 최종보스를 마주한 듯한 아주 웅장한 노래"
         },
         {
@@ -39,6 +42,7 @@
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 세이튼의 책(Mischief Pages of Saton) - LOST ARK Official Soundtrack.mp3",
             "thumbnail": "https://i.ytimg.com/vi/vcGey-NEcDQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBa8G0EvAQQeomXpvZDQ69413zR_Q",
             "tag": "재즈,가벼움,잔잔,시작됨,모험",
+            "main_tag":"가벼움",
             "comment": "잔잔한 하고 빠른 비트의 가벼운 재즈곡, 무언가 시작될 것 같은 음악"
         },
         {
@@ -49,6 +53,7 @@
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 화려한 서커스(Splendid Circus) - LOST ARK Official Soundtrack.mp3",
             "thumbnail": "https://i.ytimg.com/vi/PCt3w7uTdHQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1bwXZlkWlXzJIui9idMFgnw2ymA",
             "tag": "재즈,빠름,긴박,가벼움,시작됨,신남",
+            "main_tag":"신남",
             "comment": "굉장히 빠르고 급하게 진행되는 느낌을 주는 재즈곡, 허둥지둥 대는 상황과 잘 어울릴지도..?"
         },
         {
@@ -59,6 +64,7 @@
             "file_name": "[로스트아크｜OST] 쿠크세이튼 테마 - 한밤중의 서커스(Midnight Circus) - LOST ARK Official Soundtrack.mp3",
             "thumbnail": "https://i.ytimg.com/vi/VkyszLBTAVE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAY5ZsBMOT6_KVBal6My6-YaVb0nA",
             "tag": "재즈,위험,공포,미침,은밀함",
+            "main_tag":"위험",
             "comment": "굉장히 위험한 밤에 은밀하게 일어나는 광기의 서커스를 표현한 음악"
         },
         {
@@ -69,6 +75,7 @@
             "file_name": "[로스트아크ㅣOST] 02_레온하트(Leonhart) - LOST ARK Soundtrack (Vol.1 Orchestra Track).mp3",
             "thumbnail": "https://i.ytimg.com/vi/vRc0U91xE9M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1L6TP2qkI2VdUshgzI6nbqgduuw",
             "tag": "오케스트라,두근대는,웅장함,모험,시작되는",
+            "main_tag":"두근대는",
             "comment": "개인적으로 로스트아크 BGM중에 제일 잘만들었다고 생각하는 음악, 모험이 시작되는 두근거림과 설레임을 너무 잘표현한 음악"
         },
         {
@@ -79,6 +86,7 @@
             "file_name": "흩어진 시간 (Shattered Time) [메이플스토리 OST - 아케인 리버].mp3",
             "thumbnail": "https://i.ytimg.com/vi/tbLEFclErGI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTu84CBBKORfLLBQa-4aiywDkusg",
             "tag": "오케스트라,축제,잔혹한,두근대는,무서운,애절함",
+            "main_tag":"두근대는",
             "comment": "시계탑이 있는 마을의 몽환의 축제에서 흘러나오는 분위기를 표현한 음악"
         },
         {
@@ -89,6 +97,7 @@
             "file_name": "[MapleStory BGM] Lith Harbor- Above the Treetops.mp3",
             "thumbnail": "https://i.ytimg.com/vi/F6LIFBVhObQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgVChCMA8=&rs=AOn4CLDZhMQY0f0EHyYvGT2MuOrh8LD-1w",
             "tag": "모험,시작되는,두근대는,시원함,바람부는,가벼움",
+            "main_tag":"두근대는",
             "comment": "모험이 시작되는 두근거림과 설레임을 바다항구의 시원한 바람을 느끼는 것처럼 표현한 음악"
         },
         {
@@ -99,6 +108,7 @@
             "file_name": "[MapleStory BGM] Ellinia- When the Morning Comes.mp3",
             "thumbnail": "https://i.ytimg.com/vi/gfgBDs8z6WE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCggcigYMA8=&rs=AOn4CLAG-H0V-FuSd6COH37PS7imAmL2CA",
             "tag": "모험,숲,시작되는,두근대는,웅장함,속삭임,맑음,신비로움",
+            "main_tag":"두근대는",
             "comment": "울창한 숲속에 숨겨진 마을을 표현한 음악, 신비로운 느낌과 두근대는 느낌을 주는 음악"
         },
         {
@@ -108,7 +118,8 @@
             "folder": "maplestory",
             "file_name": "MapleStory BGM - Raindrop Flower (수련의 숲).mp3",
             "thumbnail": "https://i.ytimg.com/vi/3QqPl-pBW14/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCMgWChyMA8=&rs=AOn4CLBmrxwL3srqsGVvmSJ61OOSe1PVog",
-            "tag": "모험,숲,시작되는,가벼운,귀여움",
+            "tag": "모험,숲,시작되는,가벼움,귀여움",
+            "main_tag":"가벼움",
             "comment": "모험이 시작되는 초보자 마을의 가볍고 설레임을 표현한 음악"
         },
         {
@@ -119,6 +130,7 @@
             "file_name": "Super Bomberman R Soundtrack Great Gattaida  Boss.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ZAxlMQNcpTM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCIgTCh_MA8=&rs=AOn4CLCXFXvmhePTwkuY9-nMp_Vl9hQr3g",
             "tag": "긴박,매드무비,웃김,우당탕탕,재빠른,신남,난리",
+            "main_tag":"매드무비",
             "comment": "웃긴 매드무비같은 곳에 많이 쓰이는 음악, 굉장히 빠르며 난해하지만 중독성 강한 음악"
         },
         {
@@ -129,6 +141,7 @@
             "file_name": "Super Bomberman R Soundtrack The Five Dastardly Bombers.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ZAxlMQNcpTM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCIgTCh_MA8=&rs=AOn4CLCXFXvmhePTwkuY9-nMp_Vl9hQr3g",
             "tag": "활기참참,보스,웃김,우당탕탕,재빠른,신남,난리",
+            "main_tag":"신남",
             "comment": "웃긴 보스전이나, 여러 상황에서 무난하게 많이 쓰이는 음악, 빠르고 포인트가 확실한 중독성 강한 음악"
         },
         {
@@ -139,6 +152,7 @@
             "file_name": "Undertale OST- 010 - Ghost Fight.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "재즈,은밀함,웃김,조용함,살금살금,놀림",
+            "main_tag":"웃김",
             "comment": "조용조용하면서 은밀한 듯한, 조용하면서 뭔가를 놀리는듯한 음악"
         },
         {
@@ -149,8 +163,10 @@
             "file_name": "Undertale OST- 015 - sans..mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "웃김,예능,당황스러움,평화로움,재미,뻔뻔함,엉뚱함",
+            "main_tag":"웃김",
             "comment": "예능에 자주 등장하며 웃기거나 뻔뻔한 상황에서 자주 사용되는 음악"
         },
+
         {
             "title": "Nyeh Heh Heh!",
             "game_en": "UNDERTALE",
@@ -159,6 +175,7 @@
             "file_name": "Undertale OST- 016 - Nyeh Heh Heh!.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "웃김,예능,뻔뻔함,놀림",
+            "main_tag":"웃김",
             "comment": "웃기거나 뻔뻔한 상황에서 자주 사용되는 음악, 적당히 빠른 템포와 상대방을 놀리는듯한 느낌을 준다."
         },
         {
@@ -169,6 +186,7 @@
             "file_name": "Undertale OST- 023 - Shop.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "조용함,평화로움,은밀함,맑음,두근거림,정겨움",
+            "main_tag":"평화로움",
             "comment": "조용하고 평화로운 느낌을 주는 두근두근 거리는 음악"
         },
         {
@@ -179,6 +197,7 @@
             "file_name": "Undertale OST- 036 - Dummy!.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "일렉,8비트,조용함,두근거림,은밀함,신남",
+            "main_tag":"신남",
             "comment": "여러장르의 음악이 섞인 조용하지만 은밀하고 신나는 음악, Ghost Fight에 일렉이 섞인 음악"
         },
         {
@@ -189,6 +208,7 @@
             "file_name": "Undertale OST- 043 - Temmie Village.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "조용함,뻔뻔함,살금살금,평화로움",
+            "main_tag":"웃김",
             "comment": "조용하고 평화롭지만 뻔뻔한 상황에서 많이 사용되는 음악"
         },
         {
@@ -199,6 +219,7 @@
             "file_name": "Undertale OST- 068 - Death by Glamour.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "빠름,박진감넘치는,신남,보스,매드무비",
+            "main_tag":"신남",
             "comment": "평화롭게 시작하지만 빠른템포가 주를 이루는 여러가지 음악이 섞인듯한 신나는 음악"
         },
         {
@@ -209,6 +230,7 @@
             "file_name": "Undertale OST- 090 - His Theme.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
             "tag": "평화로움,유명함,차분함,맑음,활기참,정겨움,두근거림",
+            "main_tag":"평화로움",
             "comment": "언더테일을 상징하는 음악 중 하나로, 맑으면서 평화로운 느낌을주며 무언가가 시작되는 느낌을 주는 음악"
         },
         {
@@ -218,7 +240,8 @@
             "folder": "undertail",
             "file_name": "Undertale OST- 100 - Megalovania.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Zz1bfhtKsHM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDmy5k2RndPUozfxDGJxczSZEII8Q",
-            "tag": "신나는,보스,유명함,박진감넘치는,우당탕탕,재빠른,난리",
+            "tag": "신남,보스,유명함,박진감넘치는,우당탕탕,재빠른,난리",
+            "main_tag":"신남",
             "comment": "언더테일을 상징하는 대표적인 음악, 와! 샌즈라는 밈으로 유명하며 신나고 박진감 넘치는 중독적인 비트의 음악"
         },
         {
@@ -229,6 +252,7 @@
             "file_name": "Gourmet Race - Kirby- Super Star.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Se1uh3PS78Y/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gVygTMA8=&rs=AOn4CLBcOamOgQvrCo5p4eCORufh0da1bw",
             "tag": "신남,유명함,레이스,우당탕탕,박진감넘치는,재빠름",
+            "main_tag":"신남",
             "comment": "여러 영상에 사용되는 너무나도 유명한 곡, 웃기기도하며"
         },
         {
@@ -239,6 +263,7 @@
             "file_name": "Super Mario Sunshine - Delfino Plaza Original Soundtrack OST (HD).mp3",
             "thumbnail": "https://i.ytimg.com/vi/KYdRWC6MCgM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAP9NcHE5bbE2z4U4Ithfy9VGODfw",
             "tag": "신남,유명함,뻔뻔함,차분함,밝음,웃김",
+            "main_tag":"신남",
             "comment": "여러 영상에 사용되는 유명한 음악,다양한 상황에 적용할 수 있는 신나고 차분하지만 밝은 음악"
         },
         {
@@ -249,6 +274,7 @@
             "file_name": "tähtimöhkö.mp3",
             "thumbnail": "https://i.ytimg.com/vi/P_Vr_DHaI74/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGFAgTShlMA8=&rs=AOn4CLBfzhWBegiryu-aSv7WMavC02Qhfw",
             "tag": "매드무비,유명함,긴박,박진감넘치는,두근거림",
+            "main_tag":"매드무비",
             "comment": "박진감 넘치는 매드무비에 잘 어울리는 음악, 적당히 빠른 비트와 중독성강한 비트가 인상적인 음악, 1분20초경부터 유명한 부분 나옴 "
         },
         {
@@ -259,6 +285,7 @@
             "file_name": "Soundtrack3(The Takeover).mp3",
             "thumbnail": "https://i.ytimg.com/vi/YWuFSkTKYIc/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-AoAC8AGKAgwIABABGGUgTyhIMA8=&rs=AOn4CLAE37QoFesD9TQthfqSvTJ0adGFVQ",
             "tag": "진지함,신중함,유명함,두근거림",
+            "main_tag":"진지함",
             "comment": "한국에서 유독 유명한 음악, 신중하거나 진지한 상황이나, 추리 상황같은 장면에 사용하면 좋은 음악"
         },
         {
@@ -269,6 +296,7 @@
             "file_name": "Seafoam Shanty 8-BIT - Splatoon 2.mp3",
             "thumbnail": "https://i.ytimg.com/vi/B0NZfggyys0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqBFjX5p5ED4dk13XArBMMTLHNqw",
             "tag": "신남,유명함,웃김,재빠름,긴박",
+            "main_tag":"신남",
             "comment": "스플래툰2의 Seafoam Shanty를 8-BIT로 리메이크 한곡, 굉장히 빠른 템포와 신나고 중독성넘치는 음악"
         },
         {
@@ -279,6 +307,7 @@
             "file_name": "raf world(Journey to Silius) title music.mp3",
             "thumbnail": "https://i.ytimg.com/vi/bBWcm499IXI/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-A4ACwAOKAgwIABABGE4gZShaMA8=&rs=AOn4CLAZArAMxZDEzXtbOK70rPs3igqKZA",
             "tag": "매드무비,긴박,빠름,신남",
+            "main_tag":"매드무비",
             "comment": "무언가 시작되는 듯한 빠르고 신나는 중독성있는 음악"
         },
         {
@@ -289,6 +318,7 @@
             "file_name": "mega-yosh-vania.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Lxg4Cp7_P5Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJYYISrTI6vVb04uiZX9SnUvVsLw",
             "tag": "신남,흥분됨,웃김,활기참,정겨움,장난스러움",
+            "main_tag":"신남",
             "comment": "무언가 장난스럽고 활기찬 분위기를 주는 신나는 음악"
         },
         {
@@ -299,6 +329,7 @@
             "file_name": "[Chiptune] 黒魔 [Chroma] - さらば戦友.mp3",
             "thumbnail": "https://i.ytimg.com/vi/P7w_KasdMEY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDqNj6KNaA5_CDdhmNXTB21ITj4Zg",
             "tag": "신남,박진감넘치는,빠름,두근거림",
+            "main_tag":"두근거림",
             "comment": "친구들과 노는 것 같은 느낌을 주는 빠르고 신나는 비트의 중독성 있는 음악"
         },
         {
@@ -309,6 +340,7 @@
             "file_name": "[INSTRUMENTAL] INDIE CROSS - Burning In Hell ITSO Megalovania.mp3",
             "thumbnail": "https://i.ytimg.com/vi/k8R68Ku09kg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCy-xvVmN0ee2V9v5UbbrUptEH6rA",
             "tag": "드럼,두근거림,시작됨,빠름,긴박,리듬게임",
+            "main_tag":"두근거림",
             "comment": "리듬게임에 나올 것 같은 굉장히 빠른음악, 언더테일의 Megalovania음악의 리메이크 편집버전"
         },
         {
@@ -319,6 +351,7 @@
             "file_name": "【東方アレンジ】 NON STOP [a-TTTempo].mp3",
             "thumbnail": "https://i.ytimg.com/vi/R-deq9SBrIY/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBffQr7cxZj6-cO3b0N--5B5JgkIA",
             "tag": "위험,시작되는,흥분됨,빠름,은밀함,신남",
+            "main_tag":"신남",
             "comment": "무언가 굉장히 위험한 일이 일어날 것만 같은 신나고 빠른 음악"
         },
         {
@@ -329,6 +362,7 @@
             "file_name": "【Touhou Full Swing 3】YOU ARE MINE!【東方Arrange PV】.mp3",
             "thumbnail": "https://i.ytimg.com/vi/kz6OzCiIx3I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6PJj7FDpFt_N2ZXssWvnA_decEw",
             "tag": "트럼펫,신남,정신없음,신남,피날레,웅장함",
+            "main_tag":"신남",
             "comment": "트럼펫이 잔뜩 나오는 무언가 정신없으면서 신나는 음악, 은근히 웅장한 것 같기도?"
         },
         {
@@ -339,6 +373,7 @@
             "file_name": "겟앰프드 OST-BGM - 02.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ZFuv5xewqdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBN2G-0LqKZriiV1il6is0pl0zXTw",
             "tag": "액션,매드무비,일렉,신나는,전투,화려한,신나는,강렬함",
+            "main_tag":"매드무비",
             "comment": "전투 액션에 어울리는 강렬한 비트가 인상적인 매드무비에 잘 어울리는 음악"
         },
         {
@@ -349,6 +384,7 @@
             "file_name": "겟앰프드 OST-BGM - 05.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ZFuv5xewqdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBN2G-0LqKZriiV1il6is0pl0zXTw",
             "tag": "액션,매드무비,일렉,신나는,전투,화려한,신나는,빠름",
+            "main_tag":"매드무비",
             "comment": "전투 액션에 어울리는 빠른 비트가 인상적인 매드무비에 잘 어울리는 음악"
         },
         {
@@ -359,6 +395,7 @@
             "file_name": "물풍경시티.mp3",
             "thumbnail": "https://i.ytimg.com/vi/NjFsk16SyzU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXRG0jbhBeGtw0R0TUMCtHiUuhWw",
             "tag": "신나는,웃김,평화로움,밈,뻔뻔함,재미",
+            "main_tag":"웃김",
             "comment": "투슬리스와 태보,물병옥시티등 다양한 밈으로 크게 사랑받은 음악, 신나면서 웃기면서 동시에 뻔뻔한 느낌을 주는 음악"
         },
         {
@@ -369,6 +406,7 @@
             "file_name": "a_hisa - Agaliarept.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Xo4icEXwRYg/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGAgRyhyMA8=&rs=AOn4CLAwXYItAhEtpV4C_gqEcOPc2InHfQ",
             "tag": "액션,드럼,강렬함,매드무비,정신없음,빠름,긴장감넘치는",
+            "main_tag":"매드무비",
             "comment": "시작부터 굉장히 강렬한 느낌과 빠른 비트로 정신없이 몰아치는 매드무비에 어울리는 음악"
         },
         {
@@ -379,6 +417,7 @@
             "file_name": "a_hisa - My Little Hero.mp3",
             "thumbnail": "https://i.ytimg.com/vi/EC-USHbHrn0/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEwgYihlMA8=&rs=AOn4CLDTGHTqNmQsXONvu4oxDcf4DKuXxg",
             "tag": "신남,빠름,정신없음,재미,뻔뻔함,시작됨",
+            "main_tag":"웃김",
             "comment": "빠르게 몰아치며 무언가 빠르게 진행되는 느낌을 주는 신나는 음악"
         },
         {
@@ -389,6 +428,7 @@
             "file_name": "a_hisa - NGC4631.mp3",
             "thumbnail": "https://i.ytimg.com/vi/bhNUL523Huo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHBDj1pMKAQiapjCqxGLmzhPpRIA",
             "tag": "신남,빠름,정신없음,활기참,마지막",
+            "main_tag":"웃김",
             "comment": "빠르게 몰아치며 무언가 마무리하는 순간에 어울릴 것 같은 활기찬 음악"
         },
         {
@@ -399,6 +439,7 @@
             "file_name": "Attack On Tibia OP 1.mp3",
             "thumbnail": "https://i.ytimg.com/vi/NKcd9L48CW4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrdztjg4SvN4MRRkhSNFv6JgEtkg",
             "tag": "위험,신남,박진감넘치는,웅장함,빠름,정신없음",
+            "main_tag":"위험",
             "comment": "언더테일의 Megalovania와 진격의 거인의 홍련의 화살을 섞은 신나고 박진감 넘치며, 위험한 느낌을 주는 음악"
         },
         {
@@ -409,6 +450,7 @@
             "file_name": "BFGB Division.mp3",
             "thumbnail": "https://i.ytimg.com/vi/AdePYY-rvLs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANg64LWJkdQA6PEGzbnITtF6t7Tw",
             "tag": "신남,보스,매드무비,정신없음,빠름,위험,공포,절망",
+            "main_tag":"정신없음",
             "comment": "신나고 빠르지만, 절망스럽고 공포스러운 느낌을 주는 매드무비에 어울리는 빠른 비트의 음악"
         },
         {
@@ -419,6 +461,7 @@
             "file_name": "Can-Can.mp3",
             "thumbnail": "https://i.ytimg.com/vi/DSJzz0s0HsA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8osUWd6-UaD0vZa7laR2YJbRFOw",
             "tag": "신남,매드무비,오케스트라,유명함,빠름,웅장함,시작됨,마무리",
+            "main_tag":"신남",
             "comment": "캉캉으로 유명한 클래식 음악, 굉장히 빠른 비트와 시작과 끝이 확실한, 매드무비에 어울리는 클래식 음악"
         },
         {
@@ -429,6 +472,7 @@
             "file_name": "Johannes Brahms -- Hungarian Dance No.5 - Hungarian Symphony Orchestra Budapest.mp3",
             "thumbnail": "https://i.ytimg.com/vi/Nzo3atXtm54/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYACygWKAgwIABABGH8gRygWMA8=&rs=AOn4CLD3KS_7nAmmfwZa02AQ7VjAt0_ugw",
             "tag": "오케스트라,유명함,웅장함,긴박함,차분함",
+            "main_tag":"긴박함",
             "comment": "엄청나게 유명한 브람스의 헝가리안 댄스 5번음악, 조용하고 차분한 느낌부터 웅장하고 빠른 느낌까지 여러가지 스토리가 있는 음악"
         },
         {
@@ -439,6 +483,7 @@
             "file_name": "Max Raabe mambo5.mp3",
             "thumbnail": "https://i.ytimg.com/vi/6RTnRrDnsGI/hq2.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDbyakq4-plydd8wa2OrY87OvEK3A",
             "tag": "보컬,신나는,차분한,재미있는,정겨움,장난스러움",
+            "main_tag":"신남",
             "comment": "가벼운듯 가볍지 않은, 즐겁고 기분좋은 느낌을 주는 음악 (재생 버튼 누르고 5초 정도 지난 후 음악나옴)"
         },
         {
@@ -449,6 +494,7 @@
             "file_name": "Mermaid Sans & Barnacle Bone vs The Dirty Jevil.mp3",
             "thumbnail": "https://i.ytimg.com/vi/t95UZ13_qGA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAoPkFSD-u5o9ixdmFvYaGEk9izUQ",
             "tag": "신남,보스,매드무비,장난스러움,박진감넘치는,빠름,정신없음",
+            "main_tag":"신남",
             "comment": "보스를 잡거나 매드무비에 어울리는, 장난스러우면서 박진감 넘치는 중독성 강한 음악"
         },
         {
@@ -459,6 +505,7 @@
             "file_name": "nightmare before gyftmas.mp3",
             "thumbnail": "https://i.ytimg.com/vi/8yvpbJig_Qk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC88oP-f6OiAxJAB-oTOHiawL7gDQ",
             "tag": "보스,무서움,장난스러움,빠름,정신없음,재미있는",
+            "main_tag":"보스",
             "comment": "보스를 잡을 때나 정신없는 밤과 어울릴 것 같은 정신없이 몰아치는 음악"
         },
         {
@@ -469,6 +516,7 @@
             "file_name": "NOW'S YOUR CHANCE TO [[Have A Bad Time]]..mp3",
             "thumbnail": "https://i.ytimg.com/vi/Bow0C_mlCcU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9vvKNHJdnUGVuuizVWdR6lznd6g",
             "tag": "정신없음,매드무비,무서움,장난스러움,빠름,정신없음",
+            "main_tag":"매드무비",
             "comment": "정신없이 몰아치는 중독성 넘치는 비트의 매드무비에 어울릴 것 같은 음악"
         },
         {
@@ -478,7 +526,8 @@
             "folder": "smashbros",
             "file_name": "Psycho Soldier Theme (Overseas Version) - Super Smash Bros. Ultimate OST.mp3",
             "thumbnail": "https://i.ytimg.com/vi/LBBwZv6nTWQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwfPeUIbgM2GWP5ZGFgotx5fqtEw",
-            "tag": "신남남,보컬,재즈,박진감넘치는,재미있는,빠름,절박함",
+            "tag": "신남,보컬,재즈,박진감넘치는,재미있는,빠름,절박함",
+            "main_tag":"신남",
             "comment": "대난투 스매시브라더스의 음악, 신나고 박진감 넘치며 애니매이션 OST같은 재미있는 보컬이 인상적인 음악"
         },
         {
@@ -489,6 +538,7 @@
             "file_name": "super megalo 64 - sans' secret slide.mp3",
             "thumbnail": "https://i.ytimg.com/vi/SZ-LRhQCT-A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCeiHDYKzI_38GM-YYkJaW5cKC1Q",
             "tag": "신남,박진감넘치는,재미있는,빠름,재미있는",
+            "main_tag":"신남",
             "comment": "슈퍼마리오 BGM의 리메이크 음악, 빠른 비트에 중독성강한 비트의 음악"
         },
         {
@@ -499,6 +549,7 @@
             "file_name": "Touhou - Sky Girls!! ToHo Full Swing 1 {1080p}.mp3",
             "thumbnail": "https://i.ytimg.com/vi/ffT5jnF16Lk/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gRygcMA8=&rs=AOn4CLDvHGDPM7aEKd1aDFMc7ij4sKsWXA",
             "tag": "신남,재미있는,뻔뻔함,웃김,두근거림,정신없음",
+            "main_tag":"신남",
             "comment": "재미있고 신나는 다양한 소리를 들을 수 있는 음악"
         },
         {
@@ -509,6 +560,7 @@
             "file_name": "twelfth street sans.mp3",
             "thumbnail": "https://i.ytimg.com/vi/5BipyqI_XuM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5H6RqXv_B9vvv49FQNsMU2yIwYg",
             "tag": "신남,빠름,재미있는,두근거림,정신없음",
+            "main_tag":"두근거림",
             "comment": "신나고 재미있는 빠른비트의 음악, 언더테일의 megalovania와 스폰지밥 BGM을 활용해 리메이크한 음악"
         },
         {
@@ -519,6 +571,7 @@
             "file_name": "Underblade Chronicles - You Will Judge Our Sins.mp3",
             "thumbnail": "https://i.ytimg.com/vi/hLdoUnQrrCo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwzIrsq1lEWqEIujd7pgPVCVpzfw",
             "tag": "빠름,정신없음,매드무비,액션,강렬함,재미있는,박진감넘치는",
+            "main_tag":"매드무비",
             "comment": "정신없이 몰아치는 액션이나 매드무비에 어울릴듯한 강렬한 음악"
         },
         {
@@ -528,7 +581,8 @@
             "folder": "music",
             "file_name": "Witch Doctor - Eurobeat Remix.mp3",
             "thumbnail": "https://i.ytimg.com/vi/l-Egisu_4AA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD-1oCqYUF58jXgi6lEoPGBwsgqsg",
-            "tag": "빠름,밈,정신없음,보컬,신나는,재미있는,웃긴",
+            "tag": "빠름,밈,정신없음,보컬,신나는,재미있는,웃김",
+            "main_tag":"웃김김",
             "comment": "여러가지 밈으로 유명한 음악, 신나고 재미있는 빠른 음악"
         },
         {
@@ -539,6 +593,7 @@
             "file_name": "The Happy Troll  (song) - by D1ofAquavibe.mp3",
             "thumbnail": "https://i.ytimg.com/vi/UHTFCZgm6HU/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBT_L9hY3CHzmjw1Ws_mfM7Of3-EQ",
             "tag": "유명함,신남,밈,정신없는,재미있는,빠름",
+            "main_tag":"재미있는",
             "comment": "'트롤'이라는 소재를 익살스라운 사운드와 통통 튀는 리듬으로 재미있게 표현한 음악"
         },
         {
@@ -549,6 +604,7 @@
             "file_name": "Shantae and the Pirate's Curse OST The Nightmare Woods ( Run Run Rottytops! ).mp3",
             "thumbnail": "https://i.ytimg.com/vi/71lLnE8gJnU/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGYgEyh_MA8=&rs=AOn4CLD4Qbpi5b3Jm1G83O-aqxT7LCo6fA",
             "tag": "유명함,밈,신남,빠름,재미있는,박진감넘치는,웃김",
+            "main_tag":"신남",
             "comment": "'절대태보해','이광수 모기송'등 무수히 많은 밈을 탄생시긴 신나고 빠른 음악"
         },
         {
@@ -559,6 +615,7 @@
             "file_name": "League of Legends Song - Silver Scrapes [NCS Release].mp3",
             "thumbnail": "https://i.ytimg.com/vi/MJzqr9qdopQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBMgOSh_MA8=&rs=AOn4CLCk2ze6vvw6ia5n6xWKS98m67kHsQ",
             "tag": "유명함,밈,박진감넘치는,긴장",
+            "main_tag":"긴장",
             "comment": "리그오브레전드의 5꽉 BGM과 '승리의 선글라스 리액션'으로 유명한 음악"
         },
         {
@@ -569,46 +626,7 @@
             "file_name": "",
             "thumbnail": "",
             "tag": "",
-            "comment": ""
-        },
-        {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
-        },
-        {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
-        },
-        {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "comment": ""
-        },
-        {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
+            "main_tag": "",
             "comment": ""
         }
     ]

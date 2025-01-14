@@ -12,6 +12,7 @@ interface prop {
     game_en: string;
     game_ko: string;
     tag: string;
+    main_tag:string;
     thumbnail: string;
     title: string;
 }
@@ -105,8 +106,18 @@ export default function Home() {
                 </div>
             }
             {
-                <div className={`w-[calc(100%-20px)] max-w-[1000px] min-h-screen mb-[80px] ${theme !== 2 && '!hidden'}`}>
-                </div>
+                theme === 2 && [...new Set(LoadData.data.map((item:prop)=>item.main_tag))].filter((main_tag:string) => main_tag.includes(keyword)).map((theme:string, index:number)=>(
+                    <div key={index} className="w-[calc(100%-20px)] max-w-[1000px] mb-[80px]">
+                        <h4 className="text-[22px] font-semibold mt-[40px] mb-[10.5px]">{theme}</h4>
+                        <div className={`w-full flex flex-wrap justify-start items-center gap-[14px] ${ui === false && 'flex-col'}`}>
+                            {
+                                LoadData.data.filter((item:prop)=> item.title !== "" && theme === item.main_tag).map((content, index) => (
+                                    <ContentBox ui={ui} key={index} content={content}/>
+                                ))
+                            }
+                        </div>
+                    </div>
+                ))
             }
         </div>
     );
