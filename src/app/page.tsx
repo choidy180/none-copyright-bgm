@@ -12,6 +12,7 @@ interface prop {
     game_en: string;
     game_ko: string;
     tag: string;
+    dialogue: string;
     main_tag:string;
     thumbnail: string;
     title: string;
