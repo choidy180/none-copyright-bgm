@@ -25,7 +25,7 @@ export default function Home() {
     return (
         <div className="w-full flex flex-col justify-start items-center p-[20px]">
             <h4 className="mt-[100px] text-[34px] font-bold en mb-[80px]">Copyright-free BGM</h4>
-            <p className="mb-[14px] text-[16px]">사용시 저작권 위반되는 음원이 있거나 건의사항이 있으신 분은 choidy180@naver.com으로 메일주시면 수정또는 반영하겠습니다.</p>
+            <p className="mb-[14px] text-[16px] text-center">아직 개발 진행중인 페이지입니다.<br/>사용시 저작권 위반되는 음원이 있거나 건의사항이 있으신 분은 choidy180@naver.com으로 메일주시면 수정또는 반영하겠습니다.</p>
             <input 
                 type="text" 
                 placeholder={`${theme === 0 ? '게임제목으로 검색해보세요':''}${theme === 1 ? '음악제목으로 검색해보세요':''}${theme === 2 ? '테마명으로 검색해보세요':''}`} 

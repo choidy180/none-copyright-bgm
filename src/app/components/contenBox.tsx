@@ -1,4 +1,5 @@
 import { PlayerState } from "@/atom/atom";
+import { Playing } from "@/atom/playing";
 import { useSetAtom } from "jotai";
 import Image from "next/image";
 import React, { useEffect, useRef, useState } from "react";
@@ -21,42 +22,21 @@ interface prop {
 }
 
 const ContentBox = (prop:prop) => {
-    const [playing, setPlaying] = useState<boolean>(false);
-    const audioRef = useRef<HTMLAudioElement>(null);
     const setPlayerState = useSetAtom(PlayerState);
+    const setPlayingState = useSetAtom(Playing);
 
     const audioPlay = () => {
-        if(audioRef.current){
-            audioRef.current.play();
-            const newPlayerState = {
-                "title": `${prop.content.title}`,
-                "file_name": `audio/${prop.content['folder']}/${prop.content['file_name']}`,
-                "thumbnail": `${prop.content.thumbnail}`,
-                "tag": `${prop.content.tag}`,
-                "dialogue": `${prop.content.dialogue}`,
-                "comment": `${prop.content.comment}`
-            }
-            setPlayerState(newPlayerState);
+        const newPlayerState = {
+            "title": `${prop.content.title}`,
+            "file_name": `audio/${prop.content['folder']}/${prop.content['file_name']}`,
+            "thumbnail": `${prop.content.thumbnail}`,
+            "tag": `${prop.content.tag}`,
+            "dialogue": `${prop.content.dialogue}`,
+            "comment": `${prop.content.comment}`
         }
+        setPlayerState(newPlayerState);
+        setPlayingState(true);
     }
-    const audioPause = () => {
-        if(audioRef.current){
-            audioRef.current.pause();
-            // audioRef.current.currentTime = 0;
-        }
-    }
-    useEffect(()=> {
-        if(playing){
-            audioPlay();
-        } else {
-            audioPause();
-        }
-    },[playing]);
-    useEffect(() => {
-        if (audioRef.current) {
-          audioRef.current.volume = 0.1; // 볼륨을 50%로 설정
-        }
-      }, []);
 
     const downloadAudio = () => {
         const fileUrl = `audio/${prop.content['folder']}/${prop.content['file_name']}`;
@@ -69,9 +49,6 @@ const ContentBox = (prop:prop) => {
     }
     return (
         <div className={`w-[324px] flex flex-col justify-start items-start p-[8px] border-[2px] border-solid border-[#7bed9f] transition-all bg-white rounded-[8px] hover:bg-gray-100 ${prop.ui === false && 'w-full'}`}>
-            <audio className="hidden" ref={audioRef} controls>
-                <source src={`audio/${prop.content['folder']}/${prop.content['file_name']}`} type="audio/mp3"/>
-            </audio>
             <div className={`w-full flex flex-col justify-start items-start ${prop.ui === false && '!flex-row'}`}>
                 <div className={`w-full h-[170px] bg-[#e9e9e9] rounded-[6px] overflow-hidden group ${prop.ui === false && '!w-[280px] !h-[158px]'}`}>
                     <Image
@@ -84,22 +61,9 @@ const ContentBox = (prop:prop) => {
                 </div>
                 <div className={`w-full flex flex-col justify-start items-start ${prop.ui === false && '!w-[calc(100%-300px)] ml-[14px]'}`}>
                     <div className={`w-full flex justify-start items-center ${prop.ui === false && 'w-[calc(100%-200px)]'}`}>
-                        {
-                            playing === false &&
-                            (
-                                <div onClick={()=> setPlaying(true)} className="mt-[8px] w-[38px] h-[38px] bg-[#f53b57] flex justify-center items-center rounded-full mr-[8px] cursor-pointer">
-                                    <TbPlayerPlayFilled className="text-white text-[26px]"/>
-                                </div>
-                            )
-                        }
-                        {
-                            playing === true &&
-                            (
-                                <div onClick={()=> setPlaying(false)} className="mt-[8px] w-[38px] h-[38px] bg-[#3498db] flex justify-center items-center rounded-full mr-[8px] cursor-pointer">
-                                    <IoPauseSharp className="text-white text-[26px]"/>
-                                </div>
-                            )
-                        }
+                        <div onClick={()=> audioPlay()} className="mt-[8px] w-[38px] h-[38px] bg-[#f53b57] flex justify-center items-center rounded-full mr-[8px] cursor-pointer">
+                            <TbPlayerPlayFilled className="text-white text-[26px]"/>
+                        </div>
                         <p className="mt-[10px] w-[calc(100%-70px)] font-medium text-[18px] leading-[20px]">{prop.content.title}</p>
                     </div>
                     <div className={`w-full min-h-[64px] flex flex-wrap justify-start items-start mt-[10px] gap-[8px] ${prop.ui === false && '!min-h-[30px]'}`}>
