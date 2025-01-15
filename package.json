@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "jotai": "^2.11.0",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -16,10 +17,12 @@
     "react-player": "^2.16.0",
     "react-uuid": "^2.0.0",
     "recoil": "^0.7.7",
-    "recoil-persist": "^5.1.0"
+    "recoil-persist": "^5.1.0",
+    "styled-components": "^6.1.14"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@swc-jotai/react-refresh": "^0.3.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

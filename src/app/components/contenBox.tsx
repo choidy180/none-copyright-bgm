@@ -1,3 +1,5 @@
+import { PlayerState } from "@/atom/atom";
+import { useSetAtom } from "jotai";
 import Image from "next/image";
 import React, { useEffect, useRef, useState } from "react";
 import { IoChatbubbleEllipses, IoPauseSharp } from "react-icons/io5";
@@ -11,6 +13,7 @@ interface prop {
         game_en: string;
         game_ko: string;
         tag: string;
+        dialogue: string;
         thumbnail: string;
         title: string;
     },
@@ -20,10 +23,20 @@ interface prop {
 const ContentBox = (prop:prop) => {
     const [playing, setPlaying] = useState<boolean>(false);
     const audioRef = useRef<HTMLAudioElement>(null);
+    const setPlayerState = useSetAtom(PlayerState);
 
     const audioPlay = () => {
         if(audioRef.current){
             audioRef.current.play();
+            const newPlayerState = {
+                "title": `${prop.content.title}`,
+                "file_name": `audio/${prop.content['folder']}/${prop.content['file_name']}`,
+                "thumbnail": `${prop.content.thumbnail}`,
+                "tag": `${prop.content.tag}`,
+                "dialogue": `${prop.content.dialogue}`,
+                "comment": `${prop.content.comment}`
+            }
+            setPlayerState(newPlayerState);
         }
     }
     const audioPause = () => {

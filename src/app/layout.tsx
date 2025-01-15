@@ -1,18 +1,20 @@
+import PlayerComponent from "./components/player";
 import "./globals.css";
 
 export default function RootLayout({
-  children,
+    children,
 }: Readonly<{
-  children: React.ReactNode;
+    children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en">
-      <title>FREE COPYRIGHT</title>
-      <body
-        className={`w-full`}
-      >
-        {children}
-      </body>
-    </html>
-  );
+    return (
+        <html lang="en">
+            <title>FREE COPYRIGHT</title>
+                <body
+                    className={`w-full`}
+                >
+                    {children}
+                    <PlayerComponent/>
+                </body>
+        </html>
+    );
 }
