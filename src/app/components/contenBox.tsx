@@ -2,8 +2,8 @@ import { PlayerState } from "@/atom/atom";
 import { Playing } from "@/atom/playing";
 import { useSetAtom } from "jotai";
 import Image from "next/image";
-import React, { useEffect, useRef, useState } from "react";
-import { IoChatbubbleEllipses, IoPauseSharp } from "react-icons/io5";
+import React from "react";
+import { IoChatbubbleEllipses } from "react-icons/io5";
 import { TbPlayerPlayFilled } from "react-icons/tb";
 
 interface prop {

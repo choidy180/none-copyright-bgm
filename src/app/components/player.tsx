@@ -64,7 +64,7 @@ const PlayerComponent = () => {
             </div>
             {
                 playerState.dialogue !== "" &&
-                <h4 className="w-full text-center my-[8px]">"{playerState.dialogue}"</h4>
+                <h4 className="w-full text-center my-[8px]">&quot;{playerState.dialogue}&quot;</h4>
             }
             <div className={`w-full min-h-[64px] flex flex-wrap justify-start items-start mt-[10px] gap-[8px]`}>
                 {
