@@ -106,7 +106,7 @@
             "thumbnail": "https://i.ytimg.com/vi/F6LIFBVhObQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgVChCMA8=&rs=AOn4CLDZhMQY0f0EHyYvGT2MuOrh8LD-1w",
             "tag": "모험,시작되는,두근대는,시원함,바람부는,가벼움",
             "main_tag":"두근대는",
-            "dialogue": "",
+            "dialogue": "모험이 시작되는 리스항구",
             "comment": "모험이 시작되는 두근거림과 설레임을 바다항구의 시원한 바람을 느끼는 것처럼 표현한 음악"
         },
         {
@@ -118,7 +118,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gfgBDs8z6WE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCggcigYMA8=&rs=AOn4CLAG-H0V-FuSd6COH37PS7imAmL2CA",
             "tag": "모험,숲,시작되는,두근대는,웅장함,속삭임,맑음,신비로움",
             "main_tag":"두근대는",
-            "dialogue": "",
+            "dialogue": "요정들의 거대한 나무와 같은 마을",
             "comment": "울창한 숲속에 숨겨진 마을을 표현한 음악, 신비로운 느낌과 두근대는 느낌을 주는 음악"
         },
         {
@@ -130,7 +130,7 @@
             "thumbnail": "https://i.ytimg.com/vi/3QqPl-pBW14/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCMgWChyMA8=&rs=AOn4CLBmrxwL3srqsGVvmSJ61OOSe1PVog",
             "tag": "모험,숲,시작되는,가벼움,귀여움",
             "main_tag":"가벼움",
-            "dialogue": "",
+            "dialogue": "여제의 기사가 되기 위하여",
             "comment": "모험이 시작되는 초보자 마을의 가볍고 설레임을 표현한 음악"
         },
         {
@@ -723,16 +723,16 @@
             "comment": "사랑하는 사람을 잃은 슬픔과 자신의 무력함에 대한 분노, 지난 날의 후회를 표현한 음악"
         },
         {
-            "title": "",
-            "game_en": "",
-            "game_ko": "",
-            "folder": "",
-            "file_name": "",
-            "thumbnail": "",
-            "tag": "",
-            "main_tag": "",
-            "dialogue": "",
-            "comment": ""
+            "title": "Swords Crossed",
+            "game_en": "LOST ARK",
+            "game_ko": "로스트아크",
+            "folder": "lostark",
+            "file_name": "[로스트아크ㅣOST] Swords Crossed - LOST ARK Soundtrack.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/CmVLZpJo_3E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBZlJaKFWLkbDLMnnKh9fr0sAgO5Q",
+            "tag": "웅장함,비장함,액션,빠름,극적,모험,압도적",
+            "main_tag": "웅장함",
+            "dialogue": "나는 지금, 인간으로 죽는가..?",
+            "comment": "검과 검이 부딪히는 전장의 싸움을 표현한 음악, 웅장하며 빠르게 몰아치는 음악"
         },
         {
             "title": "",
