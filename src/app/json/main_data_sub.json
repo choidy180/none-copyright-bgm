@@ -1,0 +1,17 @@
+{
+    "list" : ["로스트아크,메이플스토리,슈퍼봄버맨R,언더테일,별의 커비 슈퍼 디럭스,슈퍼 마리오 선샤인,일반음악,스플래툰2,겟앰프드,포켓몬스터 블랙·화이트,대난투 스매시브라더스 시리즈,샨테와 해적의 저주"],
+    "data" : [
+        {
+            "title": "Gourmet Race",
+            "game_en": "Kirby Super Star",
+            "game_ko": "별의 커비 슈퍼 디럭스",
+            "folder": "kirby",
+            "file_name": "Gourmet Race - Kirby- Super Star.mp3",
+            "thumbnail": "https://i.ytimg.com/vi/Se1uh3PS78Y/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gVygTMA8=&rs=AOn4CLBcOamOgQvrCo5p4eCORufh0da1bw",
+            "tag": "신남,유명함,레이스,우당탕탕,박진감넘치는,재빠름",
+            "main_tag":"신남",
+            "dialogue": "",
+            "comment": "여러 영상에 사용되는 너무나도 유명한 곡, 웃기기도하며"
+        }
+    ]
+}
