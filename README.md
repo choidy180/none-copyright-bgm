@@ -69,7 +69,7 @@ npm run dev
 # 브라우저에서 http://localhost:3000, http://127.0.0.1:3000 열기
 ```
 
-## 📡 Example Fetch (Music Player Example)
+## 🖥️ Example Code (Music Player Example)
 ```bash
 
 "use client";
