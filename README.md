@@ -59,7 +59,7 @@
 ```bash
 # 1) 레포지토리 복제
 git clone https://github.com/choidy180/none-copyright-bgm
-cd poke-next
+cd none-copyright-bgm
 
 # 2) 의존성 설치
 npm install
